@@ -27,15 +27,11 @@ def temizle():
 def basa_don():
     turtle_instance.home()
 
-
 def turtle_kaleminucunu_kaldir():
     turtle_instance.penup()
 
 def turtle_kaleminucunu_indir():
     turtle_instance.pendown()
-
-
-
 
 drawing_board.listen()
 drawing_board.onkey(yukari,"Up")
