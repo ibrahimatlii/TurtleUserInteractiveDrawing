@@ -26,14 +26,7 @@ def temizle():
 
 def basa_don():
     turtle_instance.home()
-'''
-def basa_don():
-    turtle_instance.penup()
-    turtle_instance.home()
-    turtle_instance.pendown()
-#istersek buradaki metodu da yazabiliriz her eve geldğine önce kalemi kaldır sonra kalemi indir kağıda
-burayı yazmadan çalıştırırsak kullanıcı q ile kaldırır w ile indirir ucunu
-'''
+
 
 def turtle_kaleminucunu_kaldir():
     turtle_instance.penup()
